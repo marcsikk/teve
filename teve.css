@@ -40,3 +40,30 @@ input {
 h1 {
 	border-bottom: 3px solid orange;
 }
+
+#romhanyi {
+	text-align: right;
+	font-style: italic;
+	font-size: 11px;
+}
+
+.tevekep {
+	float: right;
+}
+
+#jobbra {
+	text-align: right;
+}
+
+a {
+color: orange;
+text-decoration: none;
+padding: 10px;
+border-radius: 5px;
+}
+
+a:hover {
+	color: white;
+	background-color:darkorange; 
+	text-decoration: underline;
+}
